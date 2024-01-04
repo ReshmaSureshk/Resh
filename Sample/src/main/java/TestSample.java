@@ -2,7 +2,7 @@
 public class TestSample {
 	public void hello()
 	{
-		System.out.println("Hellooo");
+		System.out.println("Helooo");
 	}
 		
 
